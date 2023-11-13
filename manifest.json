@@ -1,0 +1,25 @@
+{
+  "short_name": "Choic Sur Mesure",
+  "name": "Your costum Chocolade Bar configurator",
+  "icons": [
+    {
+      "src": "chocolatechaud.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "chocolatechaud192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "chocolatechaud512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/choci-sur-mesure/static/css/main.1420863a.css",
+    "main.js": "/choci-sur-mesure/static/js/main.6ba4d142.js",
+    "static/media/chocolate.png": "/choci-sur-mesure/static/media/chocolate.6cfb15a9c3bceba8c0b1.png",
+    "static/media/bottom.png": "/choci-sur-mesure/static/media/bottom.aca7684277f7ad8a3d72.png",
+    "static/media/top.png": "/choci-sur-mesure/static/media/top.53c1b6ff0e4fedcc91e2.png",
+    "static/media/top-back.png": "/choci-sur-mesure/static/media/top-back.05c5f56e79a9f028ded5.png",
+    "static/media/bottom-front.png": "/choci-sur-mesure/static/media/bottom-front.756fcb03276c646237d5.png",
+    "index.html": "/choci-sur-mesure/index.html",
+    "main.1420863a.css.map": "/choci-sur-mesure/static/css/main.1420863a.css.map",
+    "main.6ba4d142.js.map": "/choci-sur-mesure/static/js/main.6ba4d142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1420863a.css",
+    "static/js/main.6ba4d142.js"
+  ]
+}
