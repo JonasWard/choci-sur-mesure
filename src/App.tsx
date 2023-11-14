@@ -31,8 +31,8 @@ export const App = () => {
       <div
         style={{
           position: 'fixed',
-          height: '100vh',
-          width: '100vw',
+          height: '100%',
+          width: '100%',
           margin: 'auto',
           background: 'linear-gradient( #E9B58F, #AE876B, #9D4E16, #69350F, #4E270B)',
         }}
@@ -40,37 +40,37 @@ export const App = () => {
       <div
         style={{
           position: 'fixed',
-          height: '100vh',
-          width: '100vw',
+          height: '100%',
+          width: '100%',
           margin: 'auto',
-          background: 'repeating-radial-gradient(circle at 20vh 20vw, #eeeeee33, #cccccc33 52px)',
+          background: 'repeating-radial-gradient(circle at 20vh 20vw,  #cccccc22, #eeeeee33, #cccccc22 67px)',
         }}
       />
       <div
         style={{
           position: 'fixed',
-          height: '100vh',
-          width: '100vw',
+          height: '100%',
+          width: '100%',
           margin: 'auto',
-          background: 'repeating-radial-gradient(circle at 70vh 70vw, #eeeeee33, #cccccc33 12px)',
+          background: 'repeating-radial-gradient(circle at 70vh 70vw, #cccccc22, #eeeeee33, #cccccc22 15px)',
         }}
       />
       <div
         style={{
           position: 'fixed',
-          height: '100vh',
-          width: '100vw',
+          height: '100%',
+          width: '100%',
           margin: 'auto',
-          background: 'repeating-radial-gradient(circle at 25vh 70vw, #eeeeee33, #cccccc33 36px)',
+          background: 'repeating-radial-gradient(circle at 25vh 70vw, #cccccc22, #eeeeee33, #cccccc22 37px)',
         }}
       />
       <div
         style={{
           position: 'fixed',
-          height: '100vh',
-          width: '100vw',
+          height: '100%',
+          width: '100%',
           margin: 'auto',
-          background: 'repeating-radial-gradient(circle at 75vh 12vw, #eeeeee33, #cccccc33 41px)',
+          background: 'repeating-radial-gradient(circle at 75vh 12vw, #cccccc22, #eeeeee33, #cccccc22 47px)',
         }}
       />
       <div style={{ height: '2000px', transform: 'translateY(calc(var(--scroll)*-500px))' }}>
